@@ -136,9 +136,12 @@
   function resumeAudioContext(){if(!audioCtx||audioCtx.state==='running'||audioCtx.state==='closed')return Promise.resolve();if(!audioResumePromise)audioResumePromise=audioCtx.resume().catch(()=>{}).finally(()=>{audioResumePromise=null});return audioResumePromise}function audio(){if(!audioCtx){audioCtx=new(window.AudioContext||window.webkitAudioContext)();audioMasterGain=audioCtx.createGain();audioMasterGain.gain.value=1.5;audioMasterGain.connect(audioCtx.destination)}if(audioCtx.state!=='running')resumeAudioContext();return audioCtx}
   function note(freq,duration,volume=.035,type='sine',delay=0){if(!soundOn)return;const c=audio(),schedule=()=>{if(!soundOn||c.state!=='running'||!audioMasterGain)return;const o=c.createOscillator(),g=c.createGain(),startAt=c.currentTime+delay;o.type=type;o.frequency.value=freq;g.gain.setValueAtTime(.0001,startAt);g.gain.exponentialRampToValueAtTime(volume,startAt+.025);g.gain.exponentialRampToValueAtTime(.0001,startAt+duration);o.connect(g).connect(audioMasterGain);o.start(startAt);o.stop(startAt+duration+.03)};if(c.state==='running')schedule();else resumeAudioContext().then(schedule).catch(()=>{})}
   function playTone(kind){if(kind==='good'){note(659,0.14,.055,'sine');note(784,0.18,.05,'sine',.1);note(988,0.22,.04,'sine',.2)}else{note(220,0.2,.035,'triangle');note(185,0.25,.028,'triangle',.14)}}
-  function toggleAudio(){soundOn=!soundOn;const b=document.getElementById('audioToggle');document.getElementById('audioIcon').textContent=soundOn?'♫':'🔇';b.title=soundOn?'音樂與音效：開啟':'音樂與音效：靜音';b.setAttribute('aria-label',soundOn?'關閉背景音樂與答題音效':'開啟背景音樂與答題音效');if(soundOn){audio();startMusic();note(523,.12,.035)}else{stopMusic()};toast(soundOn?'背景音樂與答題音效已開啟':'聲音已關閉')}
-  function startMusic(){if(musicTimer||!soundOn)return;musicTimer=setInterval(()=>{if(!soundOn)return;note(musicNotes[musicIdx%musicNotes.length],.42,.012,'sine');if(musicIdx%4===0)note(musicNotes[(musicIdx+2)%musicNotes.length]/2,.6,.008,'triangle',.04);musicIdx++},620)}function stopMusic(){clearInterval(musicTimer);musicTimer=null}
-  function activateAudioFromGesture(event){if(!soundOn||event.target.closest?.('#audioToggle'))return;audio();startMusic();document.removeEventListener('pointerdown',activateAudioFromGesture,true);document.removeEventListener('keydown',activateAudioFromGesture,true)}
+  function toggleAudio(){soundOn=!soundOn;const b=document.getElementById('audioToggle');document.getElementById('audioIcon').textContent=soundOn?'♫':'🔇';b.title=soundOn?'音樂與音效：開啟':'音樂與音效：靜音';b.setAttribute('aria-label',soundOn?'關閉背景音樂與答題音效':'開啟背景音樂與答題音效');if(soundOn){startMusicFromGesture();note(523,.12,.035)}else{stopMusic()};toast(soundOn?'背景音樂與答題音效已開啟':'聲音已關閉')}
+  function playMusicBeat(){if(!soundOn)return;note(musicNotes[musicIdx%musicNotes.length],.42,.012,'sine');if(musicIdx%4===0)note(musicNotes[(musicIdx+2)%musicNotes.length]/2,.6,.008,'triangle',.04);musicIdx++}
+  function startMusic(){if(musicTimer||!soundOn)return;const c=audio(),begin=()=>{if(!soundOn||musicTimer||c.state!=='running')return;playMusicBeat();musicTimer=setInterval(playMusicBeat,620)};if(c.state==='running')begin();else resumeAudioContext().then(begin).catch(()=>{})}
+  function stopMusic(){clearInterval(musicTimer);musicTimer=null}
+  function startMusicFromGesture(){const c=audio();if(c.state!=='running')c.resume().then(startMusic).catch(()=>{});startMusic()}
+  function activateAudioFromGesture(event){if(!soundOn||event.target.closest?.('#audioToggle'))return;startMusicFromGesture();document.removeEventListener('pointerdown',activateAudioFromGesture,true);document.removeEventListener('keydown',activateAudioFromGesture,true)}
   document.addEventListener('pointerdown',activateAudioFromGesture,true);document.addEventListener('keydown',activateAudioFromGesture,true)
   let toastTimer;function toast(text){const t=document.getElementById('toast');t.textContent=text;t.classList.add('show');clearTimeout(toastTimer);toastTimer=setTimeout(()=>t.classList.remove('show'),1900)}
   document.getElementById('audioToggle').addEventListener('click',toggleAudio);
@@ -151,6 +154,7 @@
   document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!accountDialogSetup)closeAccountDialog()});
   render();
   if(!activeAccount()||!activeAccount().name)openAccountDialog(true);
+  startMusic();
   </script>
 </body>
 </html>
