@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q1",
+    "sourceNumber": 1,
+    "chapter": "traffic-law",
+    "topic": "貨物裝載高度",
+    "question": "機車附載物品，高度不可超過駕駛人何處？",
+    "options": [
+      "頭部",
+      "肩部",
+      "腰部"
+    ],
+    "answer": 1,
+    "explanation": "附載物品高度不得超過駕駛人肩部。",
+    "sign": null
+  },
+  {
+    "id": "q2",
+    "sourceNumber": 2,
+    "chapter": "traffic-law",
+    "topic": "貨物裝載寬度",
+    "question": "機車附載物品，寬度不可超過車輛把手外緣多少？",
+    "options": [
+      "10 公分",
+      "2 公尺",
+      "1 公尺半"
+    ],
+    "answer": 0,
+    "explanation": "機車載物寬度不得超出把手外緣 10 公分。",
+    "sign": null
+  },
+  {
+    "id": "q3",
+    "sourceNumber": 3,
+    "chapter": "traffic-law",
+    "topic": "貨物裝載重量",
+    "question": "重型機車附載物品重量，不得超過多少？",
+    "options": [
+      "50 公斤",
+      "80 公斤",
+      "90 公斤"
+    ],
+    "answer": 1,
+    "explanation": "依題庫答案，重型機車附載物品不得超過 80 公斤。",
+    "sign": null
+  },
+  {
+    "id": "q4",
+    "sourceNumber": 4,
+    "chapter": "traffic-law",
+    "topic": "貨物裝載長度",
+    "question": "機車附載物品伸出車尾部分，自後輪軸起不得超過多少？",
+    "options": [
+      "半公尺",
+      "1 公尺",
+      "3 公尺"
+    ],
+    "answer": 0,
+    "explanation": "伸出車尾的部分，自後輪軸起不得超過半公尺。",
+    "sign": null
+  },
+  {
+    "id": "q5",
+    "sourceNumber": 5,
+    "chapter": "traffic-law",
+    "topic": "貨物裝載重量",
+    "question": "普通輕型機車附載物件，重量規定為何？",
+    "options": [
+      "以 40 公斤為限",
+      "以 50 公斤為限",
+      "以 20 公斤為限"
+    ],
+    "answer": 1,
+    "explanation": "普通輕型機車附載物件以 50 公斤為限。",
+    "sign": null
+  },
+  {
+    "id": "q6",
+    "sourceNumber": 6,
+    "chapter": "traffic-law",
+    "topic": "貨物裝載規定",
+    "question": "關於機車載物的規定，下列何者不正確？",
+    "options": [
+      "得載運高於騎士肩膀以上之貨物",
+      "寬度不得超過把手外緣 10 公分",
+      "伸出車尾部分，自後輪軸起不得超過 50 公分"
+    ],
+    "answer": 0,
+    "explanation": "載物高度不得高於駕駛人肩部。",
+    "sign": null
+  },
+  {
+    "id": "q7",
+    "sourceNumber": 7,
+    "chapter": "traffic-law",
+    "topic": "附載人員及物品",
+    "question": "機車附載人員或物品，下列何者不正確？",
+    "options": [
+      "小型輕型機車不得附載人員；重型及普通輕型機車在駕駛人後設有固定座位者，得附載 1 人",
+      "附載坐人後，不得另載物品",
+      "附載坐人可以側坐"
+    ],
+    "answer": 2,
+    "explanation": "附載乘客不可側坐。",
+    "sign": null
+  },
+  {
+    "id": "q8",
+    "sourceNumber": 8,
+    "chapter": "traffic-law",
+    "topic": "附載乘客規定",
+    "question": "機車附載乘客之原則，何者不正確？",
+    "options": [
+      "附載乘客不可側坐",
+      "普通輕型機車不可附載乘客",
+      "重型機車限載 1 人"
+    ],
+    "answer": 1,
+    "explanation": "普通輕型機車在駕駛人後設有固定座位者，得附載 1 人。",
+    "sign": null
+  },
+  {
+    "id": "q9",
+    "sourceNumber": 9,
+    "chapter": "road-signs",
+    "topic": "重量限制標誌",
+    "question": "圖中標誌表示何者？",
+    "options": [
+      "車輛總重限制",
+      "車輛載重限制",
+      "車輛空重"
+    ],
+    "answer": 0,
+    "explanation": "題庫圖示為紅圈標示 5.5 的重量限制標誌；原圖題意依答案欄為車輛總重限制。",
+    "sign": "weight-limit"
+  },
+  {
+    "id": "q10",
+    "sourceNumber": 10,
+    "chapter": "traffic-law",
+    "topic": "貨物裝載長度",
+    "question": "機車所附載之貨物，長度規定下列何者正確？",
+    "options": [
+      "自座位後部起不得向前超伸",
+      "自座位後部起向前不得伸出超過一公尺",
+      "自座位後部起向前不得伸出超過二十公分"
+    ],
+    "answer": 0,
+    "explanation": "貨物自座位後部起不得向前超伸。",
+    "sign": null
+  },
+  {
+    "id": "q11",
+    "sourceNumber": 11,
+    "chapter": "traffic-law",
+    "topic": "貨物裝載長度",
+    "question": "機車附載物品超過車尾，最長不得超過多少？",
+    "options": [
+      "自後輪軸起不得超過半公尺",
+      "自後輪軸起不得超過一公尺",
+      "自車尾（車身）起不得伸出超過半公尺"
+    ],
+    "answer": 0,
+    "explanation": "伸出車尾部分自後輪軸起不得超過半公尺。",
+    "sign": null
+  },
+  {
+    "id": "q12",
+    "sourceNumber": 12,
+    "chapter": "traffic-law",
+    "topic": "貨物裝載長度",
+    "question": "機車載物之長度，自座位後部起有何規定？",
+    "options": [
+      "不得向前超伸",
+      "得向前伸出但不得超過把手",
+      "無相關限制"
+    ],
+    "answer": 0,
+    "explanation": "載物自座位後部起不得向前超伸。",
+    "sign": null
+  },
+  {
+    "id": "q13",
+    "sourceNumber": 13,
+    "chapter": "traffic-law",
+    "topic": "貨物裝載寬度",
+    "question": "機車載物時，所載貨物的最大寬度限制為何？",
+    "options": [
+      "不得超過把手外緣 10 公分",
+      "不得超過把手外緣 15 公分",
+      "不得超過機車把手寬度"
+    ],
+    "answer": 0,
+    "explanation": "最大寬度不得超過把手外緣 10 公分。",
+    "sign": null
+  },
+  {
+    "id": "q14",
+    "sourceNumber": 14,
+    "chapter": "traffic-law",
+    "topic": "貨物裝載規定",
+    "question": "機車載運貨物時，關於裝載規定，下列敘述何者正確？",
+    "options": [
+      "貨物以繩索確實固定且未遮蔽車尾燈號者，得不受尺寸限制",
+      "貨物寬度未超出車把手且重量在駕駛人可控制範圍內，即符合規定",
+      "載運貨物應遵守法定之寬度、長度、高度及重量限制，不得超載"
+    ],
+    "answer": 2,
+    "explanation": "載運貨物仍須遵守法定尺寸及重量限制。",
+    "sign": null
+  },
+  {
+    "id": "q15",
+    "sourceNumber": 15,
+    "chapter": "traffic-law",
+    "topic": "附載人員及物品",
+    "question": "機車附載人員或物品，以下規定何者正確？",
+    "options": [
+      "小型輕型機車、重型及普通輕型機車在駕駛人後設有固定座位者，得附載一人",
+      "載物者，小型輕型不得超過三十公斤；普通輕型不得超過六十公斤；重型不得超過九十公斤",
+      "附載坐人後，不得另載物品。但零星物品不影響駕駛人及附載人員之安全者，不在此限"
+    ],
+    "answer": 2,
+    "explanation": "附載乘客後原則不得另載物品，但安全無虞的零星物品除外。",
+    "sign": null
+  },
+  {
+    "id": "q16",
+    "sourceNumber": 16,
+    "chapter": "traffic-law",
+    "topic": "附載違規罰則",
+    "question": "若機車附載人員或物品違反規定，將處罰誰？",
+    "options": [
+      "乘客",
+      "機車駕駛人",
+      "機車駕駛人及乘客"
+    ],
+    "answer": 1,
+    "explanation": "違規責任由機車駕駛人承擔。",
+    "sign": null
+  },
+  {
+    "id": "q17",
+    "sourceNumber": 17,
+    "chapter": "traffic-law",
+    "topic": "附載違規罰則",
+    "question": "機車附載人員或物品未依規定者，將處駕駛人多少罰鍰？",
+    "options": [
+      "新臺幣 300 元～600 元罰鍰",
+      "新臺幣 600 元～1,200 元罰鍰",
+      "新臺幣 1,200 元～2,400 元罰鍰"
+    ],
+    "answer": 0,
+    "explanation": "依題庫答案，罰鍰為新臺幣 300 元至 600 元。",
+    "sign": null
+  },
+  {
+    "id": "q18",
+    "sourceNumber": 18,
+    "chapter": "safe-driving",
+    "topic": "事故傷患處置",
+    "question": "車禍中不醒人事的骨折傷患，下列敘述何者正確？",
+    "options": [
+      "除非情況緊急，否則不得任意移動",
+      "搬動傷患前，應先處理呼吸困難、出血、骨折等情形",
+      "以上皆是"
+    ],
+    "answer": 2,
+    "explanation": "非緊急狀況勿任意移動傷患，移動前並須先處理危急問題。",
+    "sign": null
+  },
+  {
+    "id": "q19",
+    "sourceNumber": 19,
+    "chapter": "safe-driving",
+    "topic": "事故傷患觀察",
+    "question": "車禍肇事時，傷者有休克現象時臉色呈何種症狀？",
+    "options": [
+      "蒼白",
+      "鉛灰色",
+      "潮紅"
+    ],
+    "answer": 0,
+    "explanation": "休克常見臉色蒼白。",
+    "sign": null
+  },
+  {
+    "id": "q20",
+    "sourceNumber": 20,
+    "chapter": "safe-driving",
+    "topic": "事故現場安全",
+    "question": "前方路上發生事故，警察已到現場處理，應如何做比較好？",
+    "options": [
+      "停在路旁觀看",
+      "繞道離開，不可好奇在現場停留觀看",
+      "留下幫忙順便打卡"
+    ],
+    "answer": 1,
+    "explanation": "應繞道通行，不要停留圍觀而影響交通或處理。",
+    "sign": null
+  },
+  {
+    "id": "q21",
+    "sourceNumber": 21,
+    "chapter": "safe-driving",
+    "topic": "安全駕駛觀念",
+    "question": "速度愈高，停車距離如何變化？",
+    "options": [
+      "不變",
+      "愈小",
+      "愈長"
+    ],
+    "answer": 2,
+    "explanation": "車速愈高，所需停車距離愈長。",
+    "sign": null
+  },
+  {
+    "id": "q22",
+    "sourceNumber": 22,
+    "chapter": "safe-driving",
+    "topic": "火災應變",
+    "question": "如遇油料著火，應立即如何處置？",
+    "options": [
+      "用水撲滅",
+      "用滅火器及泥沙，或用水浸濕棉被衣服覆蓋撲滅",
+      "就近取樹枝撲滅"
+    ],
+    "answer": 1,
+    "explanation": "油料火災可用滅火器、泥沙或濕覆蓋物撲滅，不可直接用水潑。",
+    "sign": null
+  },
+  {
+    "id": "q23",
+    "sourceNumber": 23,
+    "chapter": "traffic-law",
+    "topic": "事故證據蒐集",
+    "question": "發生交通事故時，當事人應儘量在現場尋找何者，以利協助案情釐清？",
+    "options": [
+      "親朋好友",
+      "目擊證人",
+      "法律人士"
+    ],
+    "answer": 1,
+    "explanation": "尋找目擊證人有助於釐清事故案情。",
+    "sign": null
+  },
+  {
+    "id": "q24",
+    "sourceNumber": 24,
+    "chapter": "safe-driving",
+    "topic": "下坡安全駕駛",
+    "question": "下坡行駛時，下列何者正確？",
+    "options": [
+      "可以關閉電門，空檔滑行",
+      "不得將引擎熄火空檔滑行",
+      "無規定"
+    ],
+    "answer": 1,
+    "explanation": "下坡不得熄火或以空檔滑行。",
+    "sign": null
+  },
+  {
+    "id": "q25",
+    "sourceNumber": 25,
+    "chapter": "safe-driving",
+    "topic": "落石危險預防",
+    "question": "下列哪些地方是高危險區，應避免停駐？",
+    "options": [
+      "路面正落下小石塊",
+      "有防落石柵處或路邊護欄受撞擊扭曲變形",
+      "以上皆是"
+    ],
+    "answer": 2,
+    "explanation": "落石、受撞擊變形的防護設施周邊均屬高危險區。",
+    "sign": null
+  },
+  {
+    "id": "q26",
+    "sourceNumber": 26,
+    "chapter": "traffic-law",
+    "topic": "事故法定處置",
+    "question": "駕駛人駕駛汽車肇事致人受傷或死亡者，應即採取救護措施及依規定處置，並通知警察機關處理，不得任意移動肇事汽車及現場痕跡證據；違反者如何處理？",
+    "options": [
+      "應處以罰鍰",
+      "車輛沒入",
+      "記違規紀錄 1 次"
+    ],
+    "answer": 0,
+    "explanation": "違反事故現場保全等規定者，應處以罰鍰。",
+    "sign": null
+  },
+  {
+    "id": "q27",
+    "sourceNumber": 27,
+    "chapter": "traffic-law",
+    "topic": "道路交通事故定義",
+    "question": "道路交通事故係指以下何者在道路上行駛，致有人受傷或死亡？",
+    "options": [
+      "車輛",
+      "動力機械",
+      "以上皆是"
+    ],
+    "answer": 2,
+    "explanation": "車輛或動力機械在道路行駛致人傷亡，均屬題述事故。",
+    "sign": null
+  },
+  {
+    "id": "q28",
+    "sourceNumber": 28,
+    "chapter": "traffic-law",
+    "topic": "重大交通事故",
+    "question": "下列何者非屬重大道路交通事故？",
+    "options": [
+      "死亡人數在 3 人以上",
+      "死亡及受傷人數在 10 人以上",
+      "受傷人數在 14 人以下"
+    ],
+    "answer": 2,
+    "explanation": "單指受傷人數在 14 人以下並非題列重大事故標準。",
+    "sign": null
+  },
+  {
+    "id": "q29",
+    "sourceNumber": 29,
+    "chapter": "traffic-law",
+    "topic": "重大交通事故",
+    "question": "下列何者係屬重大交通事故？",
+    "options": [
+      "死亡人數在 3 人以上，或死亡及受傷人數在 10 人以上，或受傷人數在 15 人以上",
+      "運送之危險物品發生爆炸、燃燒或有毒液氣體、放射性物質洩漏等事故",
+      "以上皆是"
+    ],
+    "answer": 2,
+    "explanation": "傷亡人數達標或危險物品發生重大事故，均屬重大交通事故。",
+    "sign": null
+  },
+  {
+    "id": "q30",
+    "sourceNumber": 30,
+    "chapter": "traffic-law",
+    "topic": "無人傷亡事故處理",
+    "question": "駕駛人駕車肇事，無人受傷或死亡且機車尚能行駛，應優先如何處理？",
+    "options": [
+      "等待警察前來處理",
+      "將車輛位置標繪後並迅速移置路邊",
+      "通知保險公司"
+    ],
+    "answer": 1,
+    "explanation": "先標繪車輛位置，再迅速移置路邊以免妨礙交通。",
+    "sign": null
+  },
+  {
+    "id": "q31",
+    "sourceNumber": 31,
+    "chapter": "traffic-law",
+    "topic": "事故車輛移置",
+    "question": "肇事後在地面標繪相關證物位置後，下列何種狀況應將車輛立即移至路邊，切勿妨礙交通？",
+    "options": [
+      "輕微事故無人傷亡",
+      "有人重傷",
+      "有人死亡"
+    ],
+    "answer": 0,
+    "explanation": "輕微且無人傷亡的事故，標繪後應立即移車。",
+    "sign": null
+  },
+  {
+    "id": "q32",
+    "sourceNumber": 32,
+    "chapter": "traffic-law",
+    "topic": "事故車輛移置罰則",
+    "question": "駕駛人駕駛機車肇事無人受傷或死亡，且機車尚能行駛，未儘速將位置標繪並移置路邊致妨礙交通者，處罰為何？",
+    "options": [
+      "留置該機車",
+      "罰鍰",
+      "扣留牌照"
+    ],
+    "answer": 1,
+    "explanation": "未依規定標繪移車而妨礙交通者，處以罰鍰。",
+    "sign": null
+  },
+  {
+    "id": "q33",
+    "sourceNumber": 33,
+    "chapter": "traffic-law",
+    "topic": "路權與行車優先",
+    "question": "肇事時，若以路權責任歸屬，下列何者正確？",
+    "options": [
+      "直行車應讓轉彎車",
+      "先到路口者先行",
+      "轉彎車應讓直行車"
+    ],
+    "answer": 2,
+    "explanation": "轉彎車應禮讓直行車。",
+    "sign": null
+  },
+  {
+    "id": "q34",
+    "sourceNumber": 34,
+    "chapter": "safe-driving",
+    "topic": "急救與呼吸道",
+    "question": "有關呼吸、心跳停止的急救常識：暢通呼吸道後，檢查呼吸不超過多久？",
+    "options": [
+      "5 秒鐘",
+      "10 秒鐘",
+      "30 秒鐘"
+    ],
+    "answer": 1,
+    "explanation": "檢查呼吸時間不超過 10 秒鐘。",
+    "sign": null
+  },
+  {
+    "id": "q35",
+    "sourceNumber": 35,
+    "chapter": "safe-driving",
+    "topic": "心肺復甦術",
+    "question": "進行 CPR（心肺復甦術），成人胸外按壓與人工呼吸之比率為何？",
+    "options": [
+      "30：2",
+      "15：2",
+      "5：1"
+    ],
+    "answer": 0,
+    "explanation": "成人 CPR 胸外按壓與人工呼吸比率為 30：2。",
+    "sign": null
+  },
+  {
+    "id": "q36",
+    "sourceNumber": 36,
+    "chapter": "safe-driving",
+    "topic": "心肺復甦術",
+    "question": "確定傷患無意識時，需進行心肺復甦術，胸部按壓之頻率約為多少？",
+    "options": [
+      "18 次／每分鐘",
+      "72 次／每分鐘",
+      "100 次／每分鐘"
+    ],
+    "answer": 2,
+    "explanation": "題庫所列胸部按壓頻率約為每分鐘 100 次。",
+    "sign": null
+  },
+  {
+    "id": "q37",
+    "sourceNumber": 37,
+    "chapter": "safe-driving",
+    "topic": "傷患移動安全",
+    "question": "發現傷者哪個部位受傷時，應告知並維持他不受移動？",
+    "options": [
+      "頸部",
+      "脊椎",
+      "以上皆是"
+    ],
+    "answer": 2,
+    "explanation": "頸部或脊椎受傷均應避免移動傷者。",
+    "sign": null
+  },
+  {
+    "id": "q38",
+    "sourceNumber": 38,
+    "chapter": "safe-driving",
+    "topic": "頸椎傷患急救",
+    "question": "維持呼吸道暢通是急救的首要任務，但如果傷者頸椎受傷，適合哪個方法維持呼吸道暢通？",
+    "options": [
+      "推下顎法",
+      "抬下巴壓額法",
+      "壓下巴抬額法"
+    ],
+    "answer": 0,
+    "explanation": "頸椎受傷時使用推下顎法，避免扳動頸部。",
+    "sign": null
+  },
+  {
+    "id": "q39",
+    "sourceNumber": 39,
+    "chapter": "safe-driving",
+    "topic": "心肺復甦術",
+    "question": "下列何者為正確的心外按摩位置？",
+    "options": [
+      "胸骨外緣",
+      "胸骨上緣",
+      "兩乳頭連線中央胸骨上"
+    ],
+    "answer": 2,
+    "explanation": "按壓位置在兩乳頭連線中央的胸骨上。",
+    "sign": null
+  },
+  {
+    "id": "q40",
+    "sourceNumber": 40,
+    "chapter": "safe-driving",
+    "topic": "呼吸道阻塞辨識",
+    "question": "下列哪個表徵顯示個案有呼吸道阻塞？",
+    "options": [
+      "手抱肚子，彎腰一直喊痛",
+      "手抓住頸部無法說話",
+      "手按住胸口無法說話"
+    ],
+    "answer": 1,
+    "explanation": "抓住頸部且無法說話是呼吸道阻塞的典型表徵。",
+    "sign": null
+  },
+  {
+    "id": "q41",
+    "sourceNumber": 41,
+    "chapter": "safe-driving",
+    "topic": "呼吸道阻塞急救",
+    "question": "下列何者需執行哈姆立克氏施救法？",
+    "options": [
+      "個案昏迷時",
+      "懷疑呼吸道阻塞時",
+      "懷疑心肌梗塞時"
+    ],
+    "answer": 1,
+    "explanation": "懷疑發生呼吸道阻塞時應施行哈姆立克法。",
+    "sign": null
+  },
+  {
+    "id": "q42",
+    "sourceNumber": 42,
+    "chapter": "safe-driving",
+    "topic": "大量出血處置",
+    "question": "當發生車禍時，有名傷者大量出血，下列急救處理方式中何者錯誤？",
+    "options": [
+      "確定出血位置，剪開衣物，加壓止血",
+      "使用止血帶止血法，並且每隔 15～20 分鐘就鬆開一次",
+      "將出血患肢放置低於心臟的位置，這樣血才不會流太多"
+    ],
+    "answer": 2,
+    "explanation": "題庫指出此項放置方式錯誤；處理大量出血應依適當止血原則處置。",
+    "sign": null
+  },
+  {
+    "id": "q43",
+    "sourceNumber": 43,
+    "chapter": "safe-driving",
+    "topic": "心肺復甦術",
+    "question": "CPR（心肺復甦術）在心跳停止多久後必須馬上執行，以免造成腦部不可逆的傷害？",
+    "options": [
+      "在 10～15 分鐘內",
+      "在 8～10 分鐘內",
+      "在 4～6 分鐘內"
+    ],
+    "answer": 2,
+    "explanation": "題庫答案為心跳停止後 4～6 分鐘內應立即施行 CPR。",
+    "sign": null
+  },
+  {
+    "id": "q44",
+    "sourceNumber": 44,
+    "chapter": "safe-driving",
+    "topic": "呼吸道阻塞急救",
+    "question": "施行哈姆立克急救法時，雙手應握拳施力於病人的何處？",
+    "options": [
+      "肚臍左方",
+      "肚臍下方",
+      "肚臍與胸骨的中間位置"
+    ],
+    "answer": 2,
+    "explanation": "握拳施力點在肚臍與胸骨的中間位置。",
+    "sign": null
+  },
+  {
+    "id": "q45",
+    "sourceNumber": 45,
+    "chapter": "safe-driving",
+    "topic": "急救優先順序",
+    "question": "急救的優先做法為何？",
+    "options": [
+      "把頭擺正",
+      "輕拍病患，並評估意識",
+      "聽診呼吸音"
+    ],
+    "answer": 1,
+    "explanation": "先輕拍病患並評估意識狀態。",
+    "sign": null
+  },
+  {
+    "id": "q46",
+    "sourceNumber": 46,
+    "chapter": "safe-driving",
+    "topic": "化學傷害處置",
+    "question": "在化學傷害的緊急處理措施為何？",
+    "options": [
+      "沖洗患部",
+      "找中和劑",
+      "脫除衣物"
+    ],
+    "answer": 0,
+    "explanation": "化學傷害應立即以大量清水沖洗患部。",
+    "sign": null
+  },
+  {
+    "id": "q47",
+    "sourceNumber": 47,
+    "chapter": "safe-driving",
+    "topic": "外傷出血處置",
+    "question": "因外傷導致腿部出血，下列措施何者適當？",
+    "options": [
+      "不可使用止血帶，以防患肢壞死",
+      "宜在傷口上加壓止血",
+      "避免抬高患肢"
+    ],
+    "answer": 1,
+    "explanation": "以傷口直接加壓止血是適當處置。",
+    "sign": null
+  },
+  {
+    "id": "q48",
+    "sourceNumber": 48,
+    "chapter": "safe-driving",
+    "topic": "急救優先順序",
+    "question": "請依急救原則，決定急救順序：A 止血、B 維持呼吸道通暢、C 固定骨折。",
+    "options": [
+      "A→B→C",
+      "B→C→A",
+      "B→A→C"
+    ],
+    "answer": 2,
+    "explanation": "先維持呼吸道通暢，再止血，最後固定骨折。",
+    "sign": null
+  },
+  {
+    "id": "q49",
+    "sourceNumber": 49,
+    "chapter": "safe-driving",
+    "topic": "一氧化碳中毒",
+    "question": "下列有關一氧化碳中毒的敘述，何者錯誤？",
+    "options": [
+      "瓦斯外漏、汽車引擎排出的廢氣都是造成一氧化碳中毒的原因",
+      "患者的皮膚呈黑色",
+      "一氧化碳中毒時，須馬上將患者移出危險環境，並給予 100% 氧氣吸入"
+    ],
+    "answer": 1,
+    "explanation": "一氧化碳中毒的皮膚不會呈黑色。",
+    "sign": null
+  },
+  {
+    "id": "q50",
+    "sourceNumber": 50,
+    "chapter": "safe-driving",
+    "topic": "呼吸狀態評估",
+    "question": "CPR（心肺復甦術）時觀察患者有無呼吸的方法，不包括下列何者？",
+    "options": [
+      "看胸部有無起伏",
+      "感覺有無氣體呼出",
+      "摸有無頸動脈跳動"
+    ],
+    "answer": 2,
+    "explanation": "觀察呼吸可看、聽、感覺；摸頸動脈是在檢查脈搏。",
+    "sign": null
+  },
+  {
+    "id": "q51",
+    "sourceNumber": 51,
+    "chapter": "safe-driving",
+    "topic": "骨折急救",
+    "question": "如患者有骨折，下列何者為不適當的急救處置？",
+    "options": [
+      "移動患者骨折處，擺出能使患者舒服的臥位",
+      "優先處理出血或休克，再以夾板固定患部",
+      "不要隨意移動患者的骨折部位"
+    ],
+    "answer": 0,
+    "explanation": "不可任意移動骨折部位或為了舒適而擺動傷肢。",
+    "sign": null
+  },
+  {
+    "id": "q52",
+    "sourceNumber": 52,
+    "chapter": "safe-driving",
+    "topic": "一般傷口急救",
+    "question": "關於一般傷口的急救法，下列何者錯誤？",
+    "options": [
+      "先不要做任何處置，應靜待急救人員",
+      "使用流動的水或生理食鹽水來清理傷口",
+      "大量流血時，應用止血法"
+    ],
+    "answer": 0,
+    "explanation": "傷口應依情況清理及止血，不應完全不處置而只等待。",
+    "sign": null
+  },
+  {
+    "id": "q53",
+    "sourceNumber": 53,
+    "chapter": "safe-driving",
+    "topic": "昏迷傷患評估",
+    "question": "當發現有人昏迷時，下列何者為首要措施？",
+    "options": [
+      "直接進行 CPR（心肺復甦術）",
+      "確認患者的意識狀態與脈搏",
+      "立刻使用自動體外去顫器（AED）"
+    ],
+    "answer": 1,
+    "explanation": "先確認患者意識與生命徵象，再依評估結果採取急救措施。",
+    "sign": null
+  },
+  {
+    "id": "q54",
+    "sourceNumber": 54,
+    "chapter": "safe-driving",
+    "topic": "意識不清患者姿位",
+    "question": "對於意識不清的患者，最好的姿位為下列何者？",
+    "options": [
+      "半坐臥",
+      "復甦姿勢",
+      "平躺"
+    ],
+    "answer": 1,
+    "explanation": "意識不清患者宜採復甦姿勢，以維持呼吸道暢通。",
+    "sign": null
+  },
+  {
+    "id": "q67",
+    "sourceNumber": 67,
+    "chapter": "road-signs",
+    "topic": "警告標誌：路滑",
+    "question": "圖中標誌表示何者？",
+    "options": [
+      "路面高突",
+      "路滑",
+      "禁止超車"
+    ],
+    "answer": 1,
+    "explanation": "題圖為警告標誌，警示路面濕滑。",
+    "sign": "slippery"
+  },
+  {
+    "id": "q68",
+    "sourceNumber": 68,
+    "chapter": "road-signs",
+    "topic": "警告標誌：注意左側落石",
+    "question": "圖中標誌表示何者？",
+    "options": [
+      "注意右側落石",
+      "斷崖",
+      "注意左側落石"
+    ],
+    "answer": 2,
+    "explanation": "依題圖落石位置與答案欄，為注意左側落石。",
+    "sign": "falling-rocks-left"
+  },
+  {
+    "id": "q69",
+    "sourceNumber": 69,
+    "chapter": "road-signs",
+    "topic": "警告標誌：注意右側落石",
+    "question": "圖中標誌表示何者？",
+    "options": [
+      "注意右側落石",
+      "注意左側落石",
+      "危險路面"
+    ],
+    "answer": 0,
+    "explanation": "依題圖落石位置與答案欄，為注意右側落石。",
+    "sign": "falling-rocks-right"
+  },
+  {
+    "id": "q70",
+    "sourceNumber": 70,
+    "chapter": "road-signs",
+    "topic": "警告標誌：右側斷崖",
+    "question": "圖中標誌表示何者？",
+    "options": [
+      "右側斷崖",
+      "碼頭堤岸",
+      "注意右側落石"
+    ],
+    "answer": 0,
+    "explanation": "題圖為右側斷崖警告標誌。",
+    "sign": "cliff-right"
+  },
+  {
+    "id": "q71",
+    "sourceNumber": 71,
+    "chapter": "road-signs",
+    "topic": "警告標誌：危險",
+    "question": "圖中標誌表示何者？",
+    "options": [
+      "警告號誌",
+      "危險",
+      "慢行"
+    ],
+    "answer": 1,
+    "explanation": "題圖為一般危險警告標誌。",
+    "sign": "danger"
+  },
+  {
+    "id": "q72",
+    "sourceNumber": 72,
+    "chapter": "road-signs",
+    "topic": "指示標誌：救護站",
+    "question": "圖中標誌表示何者？",
+    "options": [
+      "此路不通",
+      "救護站",
+      "醫院"
+    ],
+    "answer": 1,
+    "explanation": "題圖為救護站指示標誌。",
+    "sign": "first-aid-station"
+  }
+]
