@@ -1,0 +1,1926 @@
+[
+  {
+    "sourceNumber": 9,
+    "pdfPage": 2,
+    "pdfImage": "moto-full-2_1.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 303,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0009.jpg"
+  },
+  {
+    "sourceNumber": 67,
+    "pdfPage": 5,
+    "pdfImage": "moto-full-5_1.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 1039,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0067.jpg"
+  },
+  {
+    "sourceNumber": 68,
+    "pdfPage": 6,
+    "pdfImage": "moto-full-6_1.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 102,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0068.jpg"
+  },
+  {
+    "sourceNumber": 69,
+    "pdfPage": 6,
+    "pdfImage": "moto-full-6_2.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 221,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0069.png"
+  },
+  {
+    "sourceNumber": 70,
+    "pdfPage": 6,
+    "pdfImage": "moto-full-6_3.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 340,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0070.jpg"
+  },
+  {
+    "sourceNumber": 71,
+    "pdfPage": 6,
+    "pdfImage": "moto-full-6_4.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 460,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0071.jpg"
+  },
+  {
+    "sourceNumber": 72,
+    "pdfPage": 6,
+    "pdfImage": "moto-full-6_5.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 579,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0072.jpg"
+  },
+  {
+    "sourceNumber": 119,
+    "pdfPage": 9,
+    "pdfImage": "moto-full-9_1.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 916,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0119.jpg"
+  },
+  {
+    "sourceNumber": 120,
+    "pdfPage": 9,
+    "pdfImage": "moto-full-9_2.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 1036,
+      "width": 78,
+      "height": 78
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0120.png"
+  },
+  {
+    "sourceNumber": 217,
+    "pdfPage": 15,
+    "pdfImage": "moto-full-15_1.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 767,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "visually-verified-row-offset",
+    "projectAsset": "src/pdf-figures/q-0217.jpg"
+  },
+  {
+    "sourceNumber": 218,
+    "pdfPage": 15,
+    "pdfImage": "moto-full-15_2.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 886,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0218.jpg"
+  },
+  {
+    "sourceNumber": 219,
+    "pdfPage": 15,
+    "pdfImage": "moto-full-15_3.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 1006,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0219.jpg"
+  },
+  {
+    "sourceNumber": 220,
+    "pdfPage": 16,
+    "pdfImage": "moto-full-16_1.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 102,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0220.png"
+  },
+  {
+    "sourceNumber": 405,
+    "pdfPage": 27,
+    "pdfImage": "moto-full-27_1.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 102,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0405.jpg"
+  },
+  {
+    "sourceNumber": 406,
+    "pdfPage": 27,
+    "pdfImage": "moto-full-27_2.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 221,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0406.jpg"
+  },
+  {
+    "sourceNumber": 407,
+    "pdfPage": 27,
+    "pdfImage": "moto-full-27_3.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 340,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0407.jpg"
+  },
+  {
+    "sourceNumber": 408,
+    "pdfPage": 27,
+    "pdfImage": "moto-full-27_4.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 460,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0408.jpg"
+  },
+  {
+    "sourceNumber": 409,
+    "pdfPage": 27,
+    "pdfImage": "moto-full-27_5.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 579,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0409.jpg"
+  },
+  {
+    "sourceNumber": 410,
+    "pdfPage": 27,
+    "pdfImage": "moto-full-27_6.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 699,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0410.jpg"
+  },
+  {
+    "sourceNumber": 411,
+    "pdfPage": 27,
+    "pdfImage": "moto-full-27_7.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 818,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0411.jpg"
+  },
+  {
+    "sourceNumber": 412,
+    "pdfPage": 27,
+    "pdfImage": "moto-full-27_8.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 937,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0412.jpg"
+  },
+  {
+    "sourceNumber": 413,
+    "pdfPage": 27,
+    "pdfImage": "moto-full-27_9.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 1057,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0413.jpg"
+  },
+  {
+    "sourceNumber": 414,
+    "pdfPage": 28,
+    "pdfImage": "moto-full-28_1.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 102,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0414.png"
+  },
+  {
+    "sourceNumber": 415,
+    "pdfPage": 28,
+    "pdfImage": "moto-full-28_2.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 221,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0415.jpg"
+  },
+  {
+    "sourceNumber": 416,
+    "pdfPage": 28,
+    "pdfImage": "moto-full-28_3.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 340,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0416.jpg"
+  },
+  {
+    "sourceNumber": 417,
+    "pdfPage": 28,
+    "pdfImage": "moto-full-28_4.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 460,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0417.jpg"
+  },
+  {
+    "sourceNumber": 418,
+    "pdfPage": 28,
+    "pdfImage": "moto-full-28_5.png",
+    "pdfBBox": {
+      "left": 433,
+      "top": 579,
+      "width": 126,
+      "height": 91
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0418.png"
+  },
+  {
+    "sourceNumber": 419,
+    "pdfPage": 28,
+    "pdfImage": "moto-full-28_6.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 711,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0419.jpg"
+  },
+  {
+    "sourceNumber": 420,
+    "pdfPage": 28,
+    "pdfImage": "moto-full-28_7.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 830,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0420.jpg"
+  },
+  {
+    "sourceNumber": 421,
+    "pdfPage": 28,
+    "pdfImage": "moto-full-28_8.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 949,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0421.png"
+  },
+  {
+    "sourceNumber": 422,
+    "pdfPage": 28,
+    "pdfImage": "moto-full-28_9.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 1069,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0422.png"
+  },
+  {
+    "sourceNumber": 423,
+    "pdfPage": 29,
+    "pdfImage": "moto-full-29_1.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 102,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0423.png"
+  },
+  {
+    "sourceNumber": 424,
+    "pdfPage": 29,
+    "pdfImage": "moto-full-29_2.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 221,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0424.jpg"
+  },
+  {
+    "sourceNumber": 425,
+    "pdfPage": 29,
+    "pdfImage": "moto-full-29_3.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 364,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0425.png"
+  },
+  {
+    "sourceNumber": 426,
+    "pdfPage": 29,
+    "pdfImage": "moto-full-29_4.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 507,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0426.png"
+  },
+  {
+    "sourceNumber": 427,
+    "pdfPage": 29,
+    "pdfImage": "moto-full-29_5.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 626,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0427.png"
+  },
+  {
+    "sourceNumber": 428,
+    "pdfPage": 29,
+    "pdfImage": "moto-full-29_6.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 745,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0428.png"
+  },
+  {
+    "sourceNumber": 429,
+    "pdfPage": 29,
+    "pdfImage": "moto-full-29_7.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 865,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0429.png"
+  },
+  {
+    "sourceNumber": 430,
+    "pdfPage": 29,
+    "pdfImage": "moto-full-29_8.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 984,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0430.png"
+  },
+  {
+    "sourceNumber": 431,
+    "pdfPage": 30,
+    "pdfImage": "moto-full-30_1.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 102,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0431.png"
+  },
+  {
+    "sourceNumber": 432,
+    "pdfPage": 30,
+    "pdfImage": "moto-full-30_2.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 221,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0432.png"
+  },
+  {
+    "sourceNumber": 433,
+    "pdfPage": 30,
+    "pdfImage": "moto-full-30_3.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 340,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0433.jpg"
+  },
+  {
+    "sourceNumber": 434,
+    "pdfPage": 30,
+    "pdfImage": "moto-full-30_4.jpg",
+    "pdfBBox": {
+      "left": 458,
+      "top": 460,
+      "width": 77,
+      "height": 77
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0434.jpg"
+  },
+  {
+    "sourceNumber": 435,
+    "pdfPage": 30,
+    "pdfImage": "moto-full-30_5.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 577,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0435.jpg"
+  },
+  {
+    "sourceNumber": 436,
+    "pdfPage": 30,
+    "pdfImage": "moto-full-30_6.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 696,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0436.jpg"
+  },
+  {
+    "sourceNumber": 437,
+    "pdfPage": 30,
+    "pdfImage": "moto-full-30_7.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 816,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0437.png"
+  },
+  {
+    "sourceNumber": 438,
+    "pdfPage": 30,
+    "pdfImage": "moto-full-30_8.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 959,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0438.jpg"
+  },
+  {
+    "sourceNumber": 439,
+    "pdfPage": 30,
+    "pdfImage": "moto-full-30_9.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 1078,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0439.png"
+  },
+  {
+    "sourceNumber": 440,
+    "pdfPage": 31,
+    "pdfImage": "moto-full-31_1.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 177,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0440.png"
+  },
+  {
+    "sourceNumber": 441,
+    "pdfPage": 31,
+    "pdfImage": "moto-full-31_2.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 320,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0441.jpg"
+  },
+  {
+    "sourceNumber": 442,
+    "pdfPage": 31,
+    "pdfImage": "moto-full-31_3.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 463,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0442.jpg"
+  },
+  {
+    "sourceNumber": 443,
+    "pdfPage": 31,
+    "pdfImage": "moto-full-31_4.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 582,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0443.jpg"
+  },
+  {
+    "sourceNumber": 444,
+    "pdfPage": 31,
+    "pdfImage": "moto-full-31_5.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 702,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0444.jpg"
+  },
+  {
+    "sourceNumber": 445,
+    "pdfPage": 31,
+    "pdfImage": "moto-full-31_6.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 821,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0445.jpg"
+  },
+  {
+    "sourceNumber": 446,
+    "pdfPage": 31,
+    "pdfImage": "moto-full-31_7.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 940,
+      "width": 78,
+      "height": 78
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0446.png"
+  },
+  {
+    "sourceNumber": 447,
+    "pdfPage": 31,
+    "pdfImage": "moto-full-31_8.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 1061,
+      "width": 78,
+      "height": 78
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0447.png"
+  },
+  {
+    "sourceNumber": 509,
+    "pdfPage": 37,
+    "pdfImage": "moto-full-37_1.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 870,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0509.jpg"
+  },
+  {
+    "sourceNumber": 510,
+    "pdfPage": 37,
+    "pdfImage": "moto-full-37_2.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 989,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0510.jpg"
+  },
+  {
+    "sourceNumber": 511,
+    "pdfPage": 38,
+    "pdfImage": "moto-full-38_1.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 102,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0511.png"
+  },
+  {
+    "sourceNumber": 512,
+    "pdfPage": 38,
+    "pdfImage": "moto-full-38_2.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 221,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0512.jpg"
+  },
+  {
+    "sourceNumber": 513,
+    "pdfPage": 38,
+    "pdfImage": "moto-full-38_3.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 340,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0513.jpg"
+  },
+  {
+    "sourceNumber": 514,
+    "pdfPage": 38,
+    "pdfImage": "moto-full-38_4.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 460,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0514.jpg"
+  },
+  {
+    "sourceNumber": 515,
+    "pdfPage": 38,
+    "pdfImage": "moto-full-38_5.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 579,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0515.jpg"
+  },
+  {
+    "sourceNumber": 516,
+    "pdfPage": 38,
+    "pdfImage": "moto-full-38_6.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 699,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0516.jpg"
+  },
+  {
+    "sourceNumber": 517,
+    "pdfPage": 38,
+    "pdfImage": "moto-full-38_7.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 818,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0517.jpg"
+  },
+  {
+    "sourceNumber": 518,
+    "pdfPage": 38,
+    "pdfImage": "moto-full-38_8.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 937,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0518.jpg"
+  },
+  {
+    "sourceNumber": 519,
+    "pdfPage": 38,
+    "pdfImage": "moto-full-38_9.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 1057,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0519.jpg"
+  },
+  {
+    "sourceNumber": 520,
+    "pdfPage": 39,
+    "pdfImage": "moto-full-39_1.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 102,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0520.jpg"
+  },
+  {
+    "sourceNumber": 521,
+    "pdfPage": 39,
+    "pdfImage": "moto-full-39_2.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 221,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0521.jpg"
+  },
+  {
+    "sourceNumber": 522,
+    "pdfPage": 39,
+    "pdfImage": "moto-full-39_3.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 340,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0522.jpg"
+  },
+  {
+    "sourceNumber": 523,
+    "pdfPage": 39,
+    "pdfImage": "moto-full-39_4.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 460,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0523.jpg"
+  },
+  {
+    "sourceNumber": 524,
+    "pdfPage": 39,
+    "pdfImage": "moto-full-39_5.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 579,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0524.jpg"
+  },
+  {
+    "sourceNumber": 525,
+    "pdfPage": 39,
+    "pdfImage": "moto-full-39_6.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 699,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0525.jpg"
+  },
+  {
+    "sourceNumber": 526,
+    "pdfPage": 39,
+    "pdfImage": "moto-full-39_7.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 818,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0526.jpg"
+  },
+  {
+    "sourceNumber": 527,
+    "pdfPage": 39,
+    "pdfImage": "moto-full-39_8.png",
+    "pdfBBox": {
+      "left": 424,
+      "top": 931,
+      "width": 143,
+      "height": 115
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0527.png"
+  },
+  {
+    "sourceNumber": 528,
+    "pdfPage": 39,
+    "pdfImage": "moto-full-39_9.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 1085,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0528.png"
+  },
+  {
+    "sourceNumber": 529,
+    "pdfPage": 40,
+    "pdfImage": "moto-full-40_1.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 130,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0529.png"
+  },
+  {
+    "sourceNumber": 530,
+    "pdfPage": 40,
+    "pdfImage": "moto-full-40_2.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 250,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0530.png"
+  },
+  {
+    "sourceNumber": 531,
+    "pdfPage": 40,
+    "pdfImage": "moto-full-40_3.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 369,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0531.png"
+  },
+  {
+    "sourceNumber": 532,
+    "pdfPage": 40,
+    "pdfImage": "moto-full-40_4.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 488,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0532.png"
+  },
+  {
+    "sourceNumber": 533,
+    "pdfPage": 40,
+    "pdfImage": "moto-full-40_5.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 608,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0533.png"
+  },
+  {
+    "sourceNumber": 534,
+    "pdfPage": 40,
+    "pdfImage": "moto-full-40_6.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 727,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0534.png"
+  },
+  {
+    "sourceNumber": 564,
+    "pdfPage": 43,
+    "pdfImage": "moto-full-43_1.jpg",
+    "pdfBBox": {
+      "left": 433,
+      "top": 768,
+      "width": 126,
+      "height": 91
+    },
+    "mapping": "visually-verified-row-offset",
+    "projectAsset": "src/pdf-figures/q-0564.jpg"
+  },
+  {
+    "sourceNumber": 582,
+    "pdfPage": 45,
+    "pdfImage": "moto-full-45_1.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 876,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "visually-verified-row-offset",
+    "projectAsset": "src/pdf-figures/q-0582.jpg"
+  },
+  {
+    "sourceNumber": 583,
+    "pdfPage": 45,
+    "pdfImage": "moto-full-45_2.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 996,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0583.jpg"
+  },
+  {
+    "sourceNumber": 584,
+    "pdfPage": 46,
+    "pdfImage": "moto-full-46_1.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 102,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0584.jpg"
+  },
+  {
+    "sourceNumber": 585,
+    "pdfPage": 46,
+    "pdfImage": "moto-full-46_2.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 221,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0585.jpg"
+  },
+  {
+    "sourceNumber": 586,
+    "pdfPage": 46,
+    "pdfImage": "moto-full-46_3.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 340,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0586.jpg"
+  },
+  {
+    "sourceNumber": 587,
+    "pdfPage": 46,
+    "pdfImage": "moto-full-46_4.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 460,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0587.jpg"
+  },
+  {
+    "sourceNumber": 588,
+    "pdfPage": 46,
+    "pdfImage": "moto-full-46_5.jpg",
+    "pdfBBox": {
+      "left": 451,
+      "top": 579,
+      "width": 91,
+      "height": 66
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0588.jpg"
+  },
+  {
+    "sourceNumber": 589,
+    "pdfPage": 46,
+    "pdfImage": "moto-full-46_6.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 687,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0589.jpg"
+  },
+  {
+    "sourceNumber": 590,
+    "pdfPage": 46,
+    "pdfImage": "moto-full-46_7.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 806,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0590.jpg"
+  },
+  {
+    "sourceNumber": 591,
+    "pdfPage": 46,
+    "pdfImage": "moto-full-46_8.png",
+    "pdfBBox": {
+      "left": 459,
+      "top": 926,
+      "width": 78,
+      "height": 78
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0591.png"
+  },
+  {
+    "sourceNumber": 592,
+    "pdfPage": 46,
+    "pdfImage": "moto-full-46_9.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 1047,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0592.jpg"
+  },
+  {
+    "sourceNumber": 593,
+    "pdfPage": 47,
+    "pdfImage": "moto-full-47_1.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 102,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0593.jpg"
+  },
+  {
+    "sourceNumber": 594,
+    "pdfPage": 47,
+    "pdfImage": "moto-full-47_2.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 221,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0594.jpg"
+  },
+  {
+    "sourceNumber": 699,
+    "pdfPage": 53,
+    "pdfImage": "moto-full-53_1.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 248,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "visually-verified-row-offset",
+    "projectAsset": "src/pdf-figures/q-0699.jpg"
+  },
+  {
+    "sourceNumber": 700,
+    "pdfPage": 53,
+    "pdfImage": "moto-full-53_2.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 367,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0700.jpg"
+  },
+  {
+    "sourceNumber": 701,
+    "pdfPage": 53,
+    "pdfImage": "moto-full-53_3.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 487,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0701.jpg"
+  },
+  {
+    "sourceNumber": 702,
+    "pdfPage": 53,
+    "pdfImage": "moto-full-53_4.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 606,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0702.jpg"
+  },
+  {
+    "sourceNumber": 703,
+    "pdfPage": 53,
+    "pdfImage": "moto-full-53_5.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 726,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0703.jpg"
+  },
+  {
+    "sourceNumber": 704,
+    "pdfPage": 53,
+    "pdfImage": "moto-full-53_6.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 845,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0704.jpg"
+  },
+  {
+    "sourceNumber": 705,
+    "pdfPage": 53,
+    "pdfImage": "moto-full-53_7.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 964,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0705.png"
+  },
+  {
+    "sourceNumber": 706,
+    "pdfPage": 53,
+    "pdfImage": "moto-full-53_8.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 1084,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0706.jpg"
+  },
+  {
+    "sourceNumber": 707,
+    "pdfPage": 54,
+    "pdfImage": "moto-full-54_1.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 130,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0707.jpg"
+  },
+  {
+    "sourceNumber": 708,
+    "pdfPage": 54,
+    "pdfImage": "moto-full-54_2.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 250,
+      "width": 78,
+      "height": 78
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0708.png"
+  },
+  {
+    "sourceNumber": 709,
+    "pdfPage": 54,
+    "pdfImage": "moto-full-54_3.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 371,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0709.png"
+  },
+  {
+    "sourceNumber": 710,
+    "pdfPage": 54,
+    "pdfImage": "moto-full-54_4.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 490,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0710.jpg"
+  },
+  {
+    "sourceNumber": 711,
+    "pdfPage": 54,
+    "pdfImage": "moto-full-54_5.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 609,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0711.jpg"
+  },
+  {
+    "sourceNumber": 712,
+    "pdfPage": 54,
+    "pdfImage": "moto-full-54_6.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 729,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0712.png"
+  },
+  {
+    "sourceNumber": 713,
+    "pdfPage": 54,
+    "pdfImage": "moto-full-54_7.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 872,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0713.png"
+  },
+  {
+    "sourceNumber": 714,
+    "pdfPage": 54,
+    "pdfImage": "moto-full-54_8.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 1014,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0714.png"
+  },
+  {
+    "sourceNumber": 715,
+    "pdfPage": 55,
+    "pdfImage": "moto-full-55_1.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 102,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0715.jpg"
+  },
+  {
+    "sourceNumber": 716,
+    "pdfPage": 55,
+    "pdfImage": "moto-full-55_2.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 221,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0716.jpg"
+  },
+  {
+    "sourceNumber": 717,
+    "pdfPage": 55,
+    "pdfImage": "moto-full-55_3.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 340,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0717.png"
+  },
+  {
+    "sourceNumber": 718,
+    "pdfPage": 55,
+    "pdfImage": "moto-full-55_4.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 460,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0718.jpg"
+  },
+  {
+    "sourceNumber": 719,
+    "pdfPage": 55,
+    "pdfImage": "moto-full-55_5.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 579,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0719.jpg"
+  },
+  {
+    "sourceNumber": 720,
+    "pdfPage": 55,
+    "pdfImage": "moto-full-55_6.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 699,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0720.jpg"
+  },
+  {
+    "sourceNumber": 721,
+    "pdfPage": 55,
+    "pdfImage": "moto-full-55_7.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 818,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0721.jpg"
+  },
+  {
+    "sourceNumber": 722,
+    "pdfPage": 55,
+    "pdfImage": "moto-full-55_8.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 937,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0722.jpg"
+  },
+  {
+    "sourceNumber": 723,
+    "pdfPage": 55,
+    "pdfImage": "moto-full-55_9.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 1057,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0723.jpg"
+  },
+  {
+    "sourceNumber": 724,
+    "pdfPage": 56,
+    "pdfImage": "moto-full-56_1.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 102,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0724.jpg"
+  },
+  {
+    "sourceNumber": 725,
+    "pdfPage": 56,
+    "pdfImage": "moto-full-56_2.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 221,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0725.jpg"
+  },
+  {
+    "sourceNumber": 726,
+    "pdfPage": 56,
+    "pdfImage": "moto-full-56_3.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 340,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0726.jpg"
+  },
+  {
+    "sourceNumber": 727,
+    "pdfPage": 56,
+    "pdfImage": "moto-full-56_4.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 460,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0727.jpg"
+  },
+  {
+    "sourceNumber": 728,
+    "pdfPage": 56,
+    "pdfImage": "moto-full-56_5.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 579,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0728.jpg"
+  },
+  {
+    "sourceNumber": 729,
+    "pdfPage": 56,
+    "pdfImage": "moto-full-56_6.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 693,
+      "width": 78,
+      "height": 78
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0729.png"
+  },
+  {
+    "sourceNumber": 730,
+    "pdfPage": 56,
+    "pdfImage": "moto-full-56_7.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 811,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0730.jpg"
+  },
+  {
+    "sourceNumber": 731,
+    "pdfPage": 56,
+    "pdfImage": "moto-full-56_8.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 930,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0731.jpg"
+  },
+  {
+    "sourceNumber": 732,
+    "pdfPage": 56,
+    "pdfImage": "moto-full-56_9.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 1049,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0732.jpg"
+  },
+  {
+    "sourceNumber": 733,
+    "pdfPage": 57,
+    "pdfImage": "moto-full-57_1.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 102,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0733.png"
+  },
+  {
+    "sourceNumber": 734,
+    "pdfPage": 57,
+    "pdfImage": "moto-full-57_2.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 221,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0734.jpg"
+  },
+  {
+    "sourceNumber": 735,
+    "pdfPage": 57,
+    "pdfImage": "moto-full-57_3.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 387,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0735.png"
+  },
+  {
+    "sourceNumber": 736,
+    "pdfPage": 57,
+    "pdfImage": "moto-full-57_4.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 530,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0736.jpg"
+  },
+  {
+    "sourceNumber": 737,
+    "pdfPage": 57,
+    "pdfImage": "moto-full-57_5.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 696,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0737.png"
+  },
+  {
+    "sourceNumber": 738,
+    "pdfPage": 57,
+    "pdfImage": "moto-full-57_6.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 839,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0738.png"
+  },
+  {
+    "sourceNumber": 739,
+    "pdfPage": 57,
+    "pdfImage": "moto-full-57_7.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 953,
+      "width": 78,
+      "height": 78
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0739.png"
+  },
+  {
+    "sourceNumber": 740,
+    "pdfPage": 57,
+    "pdfImage": "moto-full-57_8.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 1070,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0740.jpg"
+  },
+  {
+    "sourceNumber": 741,
+    "pdfPage": 58,
+    "pdfImage": "moto-full-58_1.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 102,
+      "width": 78,
+      "height": 78
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0741.png"
+  },
+  {
+    "sourceNumber": 742,
+    "pdfPage": 58,
+    "pdfImage": "moto-full-58_2.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 222,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0742.jpg"
+  },
+  {
+    "sourceNumber": 743,
+    "pdfPage": 58,
+    "pdfImage": "moto-full-58_3.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 342,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0743.jpg"
+  },
+  {
+    "sourceNumber": 744,
+    "pdfPage": 58,
+    "pdfImage": "moto-full-58_4.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 461,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0744.jpg"
+  },
+  {
+    "sourceNumber": 745,
+    "pdfPage": 58,
+    "pdfImage": "moto-full-58_5.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 581,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0745.png"
+  },
+  {
+    "sourceNumber": 746,
+    "pdfPage": 58,
+    "pdfImage": "moto-full-58_6.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 700,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0746.png"
+  },
+  {
+    "sourceNumber": 747,
+    "pdfPage": 58,
+    "pdfImage": "moto-full-58_7.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 843,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0747.png"
+  },
+  {
+    "sourceNumber": 748,
+    "pdfPage": 58,
+    "pdfImage": "moto-full-58_8.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 962,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0748.jpg"
+  },
+  {
+    "sourceNumber": 749,
+    "pdfPage": 58,
+    "pdfImage": "moto-full-58_9.jpg",
+    "pdfBBox": {
+      "left": 457,
+      "top": 1082,
+      "width": 79,
+      "height": 79
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0749.jpg"
+  },
+  {
+    "sourceNumber": 792,
+    "pdfPage": 62,
+    "pdfImage": "moto-full-62_1.png",
+    "pdfBBox": {
+      "left": 457,
+      "top": 611,
+      "width": 78,
+      "height": 78
+    },
+    "mapping": "pdf-image-object",
+    "projectAsset": "src/pdf-figures/q-0792.png"
+  }
+]
