@@ -59,7 +59,7 @@
 
 ## 執行方式
 
-遊戲可直接在 [GitHub Pages 網站](https://sony000240-lang.github.io/TaiwanMotoTest/) 遊玩；專案原始碼則公開存放於 [GitHub 儲存庫](https://github.com/sony000240-lang/TaiwanMotoTest)。若要在本機執行，可使用以下方式。
+專案原始碼公開存放於 [GitHub 儲存庫](https://github.com/sony000240-lang/TaiwanMotoTest)。GitHub Pages 尚未完成啟用；如需在本機執行，可使用以下方式。
 
 ### 直接開啟
 
